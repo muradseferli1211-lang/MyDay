@@ -28,5 +28,5 @@ dependencies {
     implementation("androidx.compose.material3:material3")
     implementation("androidx.compose.foundation:foundation")
     implementation("androidx.activity:activity-compose:1.10.1")
-    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.9.2")
-    implementation("androidx.glance:glance-appwidget:1
+    implementation("androidx.glance:glance-appwidget:1.1.1")
+}
